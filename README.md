@@ -1,6 +1,4 @@
-I designed a simple web-app for the availability of bike share system in Chicago. This [download page](https://www.divvybikes.com/system-data) has all the data I should need, even real time JSON feeds. I had used a subset of the system network (not all the stations city wide, focus on one neighborhood), designed a simple data pipeline and hosted this app on some cloud resource. It does not have a full blown version (only the bike availability not much into ride/demand analytics.), just a simple platform will a taste of all necessary requirements.
-
-[Hosted Link]:- (https://verna-map.web.app/)
+I designed a simple web-app for the availability of bike share system in Chicago. This [download page](https://www.divvybikes.com/system-data) has all the data I should need, even real time JSON feeds. I had used a subset of the system network (not all the stations city wide, focus on one neighborhood), designed a simple data pipeline and hosted this app on some cloud resource. It does not have a full blown version (only the bike availability not much into ride/demand analytics.), just a simple platform will a taste of all necessary requirements. [Hosted Link](https://verna-map.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
